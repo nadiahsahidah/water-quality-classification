@@ -1,1 +1,2 @@
-# water-quality-classification
+# Data Mining Project
+https://github.com/tiariswanti/project-daming
